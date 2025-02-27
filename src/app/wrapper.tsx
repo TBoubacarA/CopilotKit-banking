@@ -26,8 +26,8 @@ export function CopilotKitWrapper({ children }: { children: React.ReactNode }) {
           "You are assisting the user as best as you can. Answer in the best way possible given the data you have."
         }
         labels={{
-          title: "Bankito Assistant",
-          initial: "Need any help?",
+          title: "Bouba's bank Assistant",
+          initial: "Need any help?🙂",
         }}
       />
     </CopilotKit>
